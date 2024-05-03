@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "f:\\Unity Project\\My project (2)\\obj\\Debug\\project.razor.json",
+  "FilePath": "f:\\Unity Project\\My project (2)\\Assembly-CSharp-Editor.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
